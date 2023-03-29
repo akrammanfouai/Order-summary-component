@@ -54,7 +54,6 @@ body{
     align-items: center;
 }
 
-
 h1{
     margin-bottom: 0.75rem;
     font-weight: 900 ;
@@ -92,10 +91,10 @@ h1{
     font-weight: 900;
 }
 
-
 .change{
     font-weight: 900;
     color:var(--Brightblue);
+    text-decoration:none;
 }
 
 .buttons{
